@@ -1,0 +1,21 @@
+cask_args appdir: "/Applications"
+
+# Fonts
+cask "font-fira-code"
+
+# Dev
+cask "iterm2"
+cask "postman"
+cask "visual-studio-code"
+cask "phpstorm"
+
+# Apps
+cask "google-chrome"
+cask "discord"
+cask "1password"
+cask "appcleaner"
+cask "grammarly"
+cask "imageoptim"
+cask "rectangle"
+cask "slack"
+cask "the-unarchiver"
