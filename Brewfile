@@ -17,6 +17,8 @@ brew "docker"
 brew "nano"
 brew "nvm"
 brew "yarn"
+brew "php"
+brew "composer"
 
 # Git
 brew "git" # Distributed revision control system]
