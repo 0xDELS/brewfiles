@@ -21,6 +21,7 @@ brew "php"
 brew "composer"
 brew "docker-compose"
 brew "bash-completion@2"
+brew "gulp-cli"
 
 # Git
 brew "git" # Distributed revision control system]
